@@ -1,0 +1,10 @@
+{
+  "name": "labour-logger",
+  "version": "1.0.0",
+  "description": "request logging middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Hill"
+}
